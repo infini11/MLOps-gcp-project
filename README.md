@@ -10,8 +10,9 @@ It is possible to create your environment using gcloud console or using terrafor
 
 Execute the following commands to create the environment :
 
-terraform init .
-terraform apply .
+terraform init 
+
+terraform apply 
 
 For destroying : 
 
