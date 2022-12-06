@@ -1,4 +1,4 @@
-project_id = "vertex-mlops"
+project_id = "sandbox-smboup"
 subnet_region = "us-central1"
 zone = "us-central1-a"
 name_prefix = "vertex-mlops"
