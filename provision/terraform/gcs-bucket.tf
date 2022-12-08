@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-resource "google_storage_bucket" "mlops_bucket_sm1996" {
+resource "google_storage_bucket" "mlops_bucket_sm1996_sandbox_smboup" {
     project       = module.project-services.project_id
     name          = "${var.name_prefix}-bucket"
     location      = local.region
